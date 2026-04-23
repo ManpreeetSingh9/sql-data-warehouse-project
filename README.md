@@ -25,8 +25,8 @@ The project follows the **Medallion Architecture**:
 - Structured using a **star schema**
 - Optimized for analytics and reporting
 
+![image alt](https://github.com/ManpreeetSingh9/sql-data-warehouse-project/blob/bd9924c81c04188c3fd737fc4f190937aa361e8f/docs/DFD.png)
 ---
-
 ## 📖 Project Overview
 
 This project includes:
