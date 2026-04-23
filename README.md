@@ -58,6 +58,14 @@ This project includes:
 
 ## 📂 Repository Structure
 
-![img alt]()
+![img alt](https://github.com/ManpreeetSingh9/sql-data-warehouse-project/blob/3e54ab19ee14727f92a4b24d15b241a7f880205a/docs/repository_structure.png)
+
+---
+
+## 📌 Summary
+
+This project demonstrates how to build a structured **data warehouse **, transforming raw data into meaningful insights using industry-standard practices.
+
+---
 
 
