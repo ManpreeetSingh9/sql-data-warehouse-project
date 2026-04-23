@@ -1,6 +1,7 @@
 # sql-data-warehouse-project
 
-📊 Data Warehouse and Analytics Project
+Welcome to the **DATA WAREHOUSE** repository !
+📊 Data Warehouse 
 This project demonstrates an end-to-end data warehousing and analytics solution, covering data ingestion, transformation, modeling, and reporting. It is designed as a portfolio project to showcase practical skills in data engineering and analytics.
 ________________________________________
 🏗️ Data Architecture
